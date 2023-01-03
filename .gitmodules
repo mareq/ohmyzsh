@@ -1,0 +1,4 @@
+[submodule "custom/plugins/conda-zsh-completion"]
+	path = custom/plugins/conda-zsh-completion
+	url = https://github.com/mareq/conda-zsh-completion.git
+	branch = skel
